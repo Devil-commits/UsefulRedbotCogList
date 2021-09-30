@@ -2,7 +2,7 @@
 
 Links of helpful Cogs for Redbot:
 
-Adventure Cog - https://github.com/aikaterna/gobcog 
+Adventure Cog - https://github.com/aikaterna/gobcog <br />
 Birthdays - https://github.com/ZeLarpMaster/ZeCogsV3.git 
 Remind and Embed and Role Management and Scheduler - https://github.com/mikeshardmind/SinbadCogs.git 
 Casino - https://github.com/Redjumpman/Jumper-Plugins.git 
